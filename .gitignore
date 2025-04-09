@@ -1,0 +1,126 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+*.venv
+.virtualenv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+log/
+
+# OS
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Secrets and Sensitive Data
+*.key
+*.pem
+*.env
+.env.*
+secrets/
+
+# Build and Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.tar.gz
+
+# Performance and Profiling
+*.prof
+*.pstat
+
+# Documentation Generation
+docs/_build/
+*.mo
+*.pot
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MCP and Windsurf Specific
+.codeium/
+.windsurf/
+*.windsurf
+*.codeium
+
+# Project Specific
+github_resume_builder.egg-info/
+performance_monitor.py.log
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+.~lock.*#
+
+# Dependency Caches
+.pip-cache/
+.npm-cache/
+
+# Compiled Source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Backup Files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+# Miscellaneous
+.local/
+.cache/
+.config/
+.local
+.cache
+.config

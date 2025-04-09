@@ -1,0 +1,36 @@
+# Core Dependencies
+flask==3.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# GitHub Integration
+PyGithub==2.1.1
+graphql-core==3.2.3
+
+# Export Utilities
+markdown2==2.4.10
+pdfkit==1.0.0
+weasyprint==60.1
+
+# Logging and Monitoring
+structlog==24.1.0
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Type Checking
+mypy==1.9.0
+types-requests==2.31.0
+
+# Development Tools
+black==24.3.0
+flake8==7.0.0
+isort==5.13.2
+
+# Security
+safety==3.0.1
+
+# Optional: Performance and Profiling
+py-spy==0.3.14
