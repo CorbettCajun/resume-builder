@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'flask==3.0.0',
-        'requests==2.31.0',
+        'requests==2.32.2',
         'python-dotenv==1.0.0',
         'PyGithub==2.1.1',
         'markdown2==2.4.10',
