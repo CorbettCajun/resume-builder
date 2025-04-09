@@ -1,5 +1,8 @@
 # GitHub Resume Generator
 
+[![CI/CD Pipeline](https://github.com/CorbettCajun/resume-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/CorbettCajun/resume-builder/actions/workflows/ci.yml)
+[![Coverage](https://codecov.io/gh/CorbettCajun/resume-builder/branch/main/graph/badge.svg)](https://codecov.io/gh/CorbettCajun/resume-builder)
+
 ## Overview
 A powerful tool to generate professional resumes directly from GitHub profiles.
 
